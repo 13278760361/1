@@ -1,0 +1,48 @@
+[ 2016-03-28T15:07:08+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.043336s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-03-28T15:07:08+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-03-28T15:55:03+08:00 ] 127.0.0.1 /Api/pay/weixin/example/WxPay.JsApiPay.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+ERR: 无法加载模块:Api
+
+[ 2016-03-28T15:55:09+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000609s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-03-28T15:55:14+08:00 ] 127.0.0.1 /index.php/Api/pay/weixin/example/WxPay.JsApiPay.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+ERR: 无法加载模块:Api
+
+[ 2016-03-28T15:57:29+08:00 ] 127.0.0.1 /index.php/Api/pay/weixin/example/WxPay.JsApiPay.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+ERR: 无法加载模块:Api
+
+[ 2016-03-28T15:57:33+08:00 ] 127.0.0.1 /index.php/Api/pay/weixin/example/WxPay.JsApiPay.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+ERR: 无法加载模块:Api
+
+[ 2016-03-28T15:58:36+08:00 ] 127.0.0.1 /index.php/Api/pay/weixin/example/WxPay.JsApiPay.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000955s ]
+ERR: 无法加载模块:Api
+
